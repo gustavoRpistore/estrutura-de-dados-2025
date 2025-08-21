@@ -1,0 +1,14 @@
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\bin\Debug\net9.0\recursion.exe
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\bin\Debug\net9.0\recursion.deps.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\bin\Debug\net9.0\recursion.runtimeconfig.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\bin\Debug\net9.0\recursion.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\bin\Debug\net9.0\recursion.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.AssemblyInfoInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.AssemblyInfo.cs
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\refint\recursion.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\recursion.genruntimeconfig.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursion\obj\Debug\net9.0\ref\recursion.dll
