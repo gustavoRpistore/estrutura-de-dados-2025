@@ -1,0 +1,14 @@
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\bin\Debug\net9.0\codigo6.exe
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\bin\Debug\net9.0\codigo6.deps.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\bin\Debug\net9.0\codigo6.runtimeconfig.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\bin\Debug\net9.0\codigo6.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\bin\Debug\net9.0\codigo6.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.AssemblyInfoInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.AssemblyInfo.cs
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.csproj.CoreCompileInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\refint\codigo6.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\codigo6.genruntimeconfig.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\recursive2\codigo6\obj\Debug\net9.0\ref\codigo6.dll
