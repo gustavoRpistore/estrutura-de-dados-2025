@@ -1,0 +1,14 @@
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\bin\Debug\net9.0\trabalhos.exe
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\bin\Debug\net9.0\trabalhos.deps.json
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\bin\Debug\net9.0\trabalhos.runtimeconfig.json
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\bin\Debug\net9.0\trabalhos.dll
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\bin\Debug\net9.0\trabalhos.pdb
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.AssemblyInfoInputs.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.AssemblyInfo.cs
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.csproj.CoreCompileInputs.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.dll
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\refint\trabalhos.dll
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.pdb
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\trabalhos.genruntimeconfig.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\obj\Debug\net9.0\ref\trabalhos.dll
