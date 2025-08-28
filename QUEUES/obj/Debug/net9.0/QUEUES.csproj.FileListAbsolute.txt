@@ -1,0 +1,14 @@
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\bin\Debug\net9.0\QUEUES.exe
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\bin\Debug\net9.0\QUEUES.deps.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\bin\Debug\net9.0\QUEUES.runtimeconfig.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\bin\Debug\net9.0\QUEUES.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\bin\Debug\net9.0\QUEUES.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.AssemblyInfoInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.AssemblyInfo.cs
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.csproj.CoreCompileInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\refint\QUEUES.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\QUEUES.genruntimeconfig.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\QUEUES\obj\Debug\net9.0\ref\QUEUES.dll
