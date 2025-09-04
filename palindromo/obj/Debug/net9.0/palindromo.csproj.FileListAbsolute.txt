@@ -1,0 +1,14 @@
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\bin\Debug\net9.0\palindromo.exe
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\bin\Debug\net9.0\palindromo.deps.json
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\bin\Debug\net9.0\palindromo.runtimeconfig.json
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\bin\Debug\net9.0\palindromo.dll
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\bin\Debug\net9.0\palindromo.pdb
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.AssemblyInfoInputs.cache
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.AssemblyInfo.cs
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.dll
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\refint\palindromo.dll
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.pdb
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\palindromo.genruntimeconfig.cache
+C:\Users\451431\Documents\estrutura-de-dados-2025-main\palindromo\obj\Debug\net9.0\ref\palindromo.dll
