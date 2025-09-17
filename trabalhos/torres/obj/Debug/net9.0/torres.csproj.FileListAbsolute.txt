@@ -1,0 +1,4 @@
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\torres\obj\Debug\net9.0\torres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\torres\obj\Debug\net9.0\torres.AssemblyInfoInputs.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\torres\obj\Debug\net9.0\torres.AssemblyInfo.cs
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\trabalhos\torres\obj\Debug\net9.0\torres.csproj.CoreCompileInputs.cache
