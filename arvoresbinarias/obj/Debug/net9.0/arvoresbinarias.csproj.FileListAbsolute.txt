@@ -1,0 +1,4 @@
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\arvoresbinarias\obj\Debug\net9.0\arvoresbinarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\arvoresbinarias\obj\Debug\net9.0\arvoresbinarias.AssemblyInfoInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\arvoresbinarias\obj\Debug\net9.0\arvoresbinarias.AssemblyInfo.cs
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main\arvoresbinarias\obj\Debug\net9.0\arvoresbinarias.csproj.CoreCompileInputs.cache
