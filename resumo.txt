@@ -1,0 +1,3 @@
+a ordenação por escrita permite  ordenar uma array unidimensional de forma simples  o array e dividido em ordenadas e nao ordenadas, no inicio o primeiro elemento incluido na parte ordenada pega o primeiro elemento da parte nao ordenada e coloca no lugar adequado na parte ordenada corretamente esta operação repetira ate que a parte nao ordenada estiver vazia 
+
+trazer pronto o insert 

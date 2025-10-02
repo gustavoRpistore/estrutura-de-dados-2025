@@ -1,0 +1,14 @@
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.AssemblyInfoInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.AssemblyInfo.cs
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.csproj.CoreCompileInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\bin\Debug\net9.0\bubble.exe
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\bin\Debug\net9.0\bubble.deps.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\bin\Debug\net9.0\bubble.runtimeconfig.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\bin\Debug\net9.0\bubble.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\bin\Debug\net9.0\bubble.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\refint\bubble.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\bubble.genruntimeconfig.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (1)\estrutura-de-dados-2025-main\bubble\obj\Debug\net9.0\ref\bubble.dll
