@@ -1,0 +1,2 @@
+quicksort e um algoritimo de "dividir e conquistar" que divide um problema em um comjunto de problemas menores. ele proporciona uma solução eficiente para ordenar, com uma implementação simplificada 
+no inicio ele escolhe um valor, como pivo em seguida ele reorganiza de tal forma que os valores menores ou igual ao pivô sao colocadas antes dele, enquanto os valores maior que o pivô sao colocados depois dele, esse processo e chamado de partição. em seguida o algoritimo ordena recursivamente.
