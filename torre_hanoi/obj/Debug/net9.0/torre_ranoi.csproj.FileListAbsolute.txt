@@ -1,0 +1,14 @@
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\bin\Debug\net9.0\torre_ranoi.exe
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\bin\Debug\net9.0\torre_ranoi.deps.json
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\bin\Debug\net9.0\torre_ranoi.runtimeconfig.json
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\bin\Debug\net9.0\torre_ranoi.dll
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\bin\Debug\net9.0\torre_ranoi.pdb
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.AssemblyInfoInputs.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.AssemblyInfo.cs
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.csproj.CoreCompileInputs.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.dll
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\refint\torre_ranoi.dll
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.pdb
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\torre_ranoi.genruntimeconfig.cache
+C:\Users\Cactus\OneDrive\Documentos\faculdade\2025\estrutura de dados\atividades\torre_ranoi\obj\Debug\net9.0\ref\torre_ranoi.dll
