@@ -1,0 +1,14 @@
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\bin\Debug\net9.0\atividade_dicionario.exe
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\bin\Debug\net9.0\atividade_dicionario.deps.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\bin\Debug\net9.0\atividade_dicionario.runtimeconfig.json
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\bin\Debug\net9.0\atividade_dicionario.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\bin\Debug\net9.0\atividade_dicionario.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.AssemblyInfoInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.AssemblyInfo.cs
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.csproj.CoreCompileInputs.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\refint\atividade_dicionario.dll
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.pdb
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\atividade_dicionario.genruntimeconfig.cache
+C:\Users\451431\Downloads\estrutura-de-dados-2025-main (2)\estrutura-de-dados-2025-main\atividade_dicionario\obj\Debug\net9.0\ref\atividade_dicionario.dll
